@@ -1,7 +1,6 @@
  - 👋 Hi, I’m @altierereis              
-- 👀 I’m interested in ...  Novas Tecnologias ,  Novidades em programação,  Inteligencia Artificial,  Mundo Geek 
-- 🌱 I’m currently learning ...  Pyhton , Node.js , Java, Android
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...  Novas Tecnologias ,  Novidades em programação, Data Science, Cloud ,Inteligencia Artificial,  Mundo Geek 
+- 🌱 I’m currently learning ...   Java, Android, Node.js, Pyhton, Spark, AWS, MongoDB, Cassandra
 - 📫 How to reach me  
 - tierereis@gmail.com
 - Linkedin  - https://www.linkedin.com/in/altiere-reis-58106447/
